@@ -1,0 +1,18 @@
+
+Este script tem por finalidade facilitar a instaçação da aplicação:
+pgAdmin4 versão 1.5 no sistema operacional CentoOS 6.5 à 6.10.
+
+Homologuei a instalação nas versões do Sistema Operacional:
+CentOS 6.5 e 6.10.
+
+Para a instalação precisamos do Python 2.7, onde realizo tal instalação, caso
+já tenha a versão é necessário alterar as linhas no script principal, com o path
+correto do binário do python2.7.
+
+OBSERVAÇÃO: Realize o clone na pasta: usr/src
+
+Obrigado.
+--
+Raymundo César Monteiro Nunes
+Analista de Sistemas
+raynunes@gmail.com
